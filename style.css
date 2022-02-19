@@ -1,0 +1,102 @@
+#website_header {
+	background-image: url('images/Centro_Rothenburg.jpg'); 
+	background-position: center;
+	background-attachment: fixed;
+	color: red;
+	font-size: 65px;
+	width: 50%;
+	height: 600px;
+	padding: 40px;
+	margin: 0 auto;
+}
+.website_header {
+	position: center;
+	color: blue;
+    font-size: 25px;
+}
+*{
+	color: blue;
+	margin: 0 ;
+	padding:  0;
+}
+#big_wrapper {
+	background: url('images/soleil.jpg') center;
+	height:600px;
+	width: 600px;
+	border: dashed 5px blue;
+	padding: 0 auto;
+	margin: 0 auto;
+	padding: 25px;
+		
+	color: yellow;
+	font-size: 24px;
+	font-family: armenian;
+	font-style: italic;
+}
+
+#big_nrapper {
+	background-image: url('https://cdn.pixabay.com/photo/2020/03/26/02/01/astronaut-4968983_960_720.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	height:600px;
+	width: 600px;
+	border: dotted 5px blue;
+	padding: 0 auto;
+	margin: 0 auto;
+	padding: 25px;
+		
+	color: yellow;
+	font-size: 24px;
+	font-family: armenian;
+	font-style: normal;
+}
+img {
+ 
+<img src="Centro_Rothenburg.jpg" alt="Con mi amor en Alemania" width="128" height="128">
+
+<img src="Museum_BMW.jpg" alt="MUseum de BMW" style="width: 128px; height:128px">
+}
+
+
+h1 {
+	background-image: url('images/tierra.jpg');
+	background-position: center;
+	background-attachment: fixed;
+  border: dotted 10px yellow;
+  color: green;
+  font-family: courier;
+  font-size: 200%;
+  position: center;
+  width:400px;
+  height: 400px;
+
+}
+#mon_frere {
+	background-image: url('images/planeta2.webp');
+	background-position: center;
+	background-attachment: fixed;
+	height:600px;
+	width: 600px;
+	border: dashed 5px;
+	padding: 0 auto;
+	margin: 0 auto;
+	padding: 25px;
+		
+	font-color: red;
+	font-size: 50px;
+	font-family: armenian;
+	font-style: italic;
+}
+#cooler {
+	background-image: url('images/mariposa.png');
+	background-position: left;
+	width: 50px;
+	
+}
+a{
+	align: center;
+	text-decoration: none;
+}
+	
+
+
